@@ -1,0 +1,19 @@
+{
+  "name": "dojo-tocamelcase",
+  "version": "1.0.0",
+  "description": "To run the tests, install mocha",
+  "main": "toCamelCase.js",
+  "scripts": {
+    "test": "mocha toCamelCase.tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anelisynagano/dojo-toCamelCase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anelisynagano/dojo-toCamelCase/issues"
+  },
+  "homepage": "https://github.com/anelisynagano/dojo-toCamelCase#readme"
+}

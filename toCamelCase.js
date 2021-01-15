@@ -1,5 +1,3 @@
-const toCamelCase = (str) => {
-
-}
+const toCamelCase = (str) => {};
 
 module.exports = toCamelCase;
